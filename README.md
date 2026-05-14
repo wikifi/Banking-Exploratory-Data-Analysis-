@@ -122,4 +122,6 @@ pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
 # Author
 
 Developed as a Data Analytics and Banking Insights Project using Python and SQL.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b5555b9-00ca-4531-8e11-6dfe7e83e0e3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a253960-967b-441b-8b5b-3fab4b21571a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/602093cb-8804-494c-aeba-5b4f5c995358" />
+

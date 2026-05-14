@@ -1,5 +1,4 @@
 # Banking-Exploratory-Data-Analysis-
-# Banking Data Analysis & Visualization Project
 
 ## Overview
 
